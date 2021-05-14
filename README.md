@@ -1,4 +1,14 @@
 ### Hi there 👋
+#### I am Shivani
+![I am Shivani](https://github.com/anuraghazra/github-readme-stats)
+
+A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in 
+I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or
+ individually motivated settings.
+
+Skills: Python  / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 <!--
 **ShivaniMakvana/ShivaniMakvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
