@@ -1,10 +1,8 @@
 ### Hi there 👋
 #### I am Shivani
-![I am Shivani](https://github.com/Shivani-Makvana/github-readme-stats)
+![I am Shivani](https://github.com/shivani-Makvana/github-profile-views-counter)
 
-A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in 
-I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or
- individually motivated settings.
+A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.
 
 Skills: Python  / JS / HTML / CSS
 
