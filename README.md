@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shivani Makvana</h1>
+
 <h5 align="center">A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.</h5>
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanimakvana&label=Profile%20views&color=0e75b6&style=flat" alt="shivanimakvana" /> </p>
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimakvana&" alt="shivanimakvana" /></p>-->
+
 
 - 🔭 I’m currently working on [Programming Books](https://shivanimakvana.github.io/Programmingbooks)
 
@@ -12,6 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanimakvana&show_icons=true&locale=en" alt="shivanimakvana" /></p>
 
+---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/ShivaniMakvana)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ShivaniMakvana)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivani-makvana/)
@@ -19,3 +23,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/shivani2023)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@shivani2364)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/tvVXg366my) 
+
+---
