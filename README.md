@@ -3,9 +3,9 @@
 <h5 align="center">A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.</h5>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanimakvana&label=Profile%20views&color=0e75b6&style=flat" alt="shivanimakvana" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanimakvana&label=Profile%20views&color=0e75b6&style=flat" alt="Shivani Makvana" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimakvana&" alt="shivanimakvana" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimakvana&" alt="shivanimakvana" /></p>-->
 
 
 - 🔭 I’m currently working on [Programming Books](https://shivanimakvana.github.io/Programmingbooks)
