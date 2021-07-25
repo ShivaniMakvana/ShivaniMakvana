@@ -7,9 +7,9 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimakvana&" alt="shivanimakvana" /></p>-->
 
-<!--
+
 - My Website [Programming Books](https://shivanimakvana.github.io/Programmingbooks)
--->
+
 ### Languages and Tools:
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
@@ -26,6 +26,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freecodecamp.svg' alt='freecodecamp' height='40'>](https://www.freecodecamp.org/shivani_)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@shivani2364)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/shivani2023)
-
+<!--
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/TsBPwP2zDx)
+-->
 
 ---
