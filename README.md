@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Shivani Makvana](https://shivanimakvana.github.io/ShivaniMakvana)</h1>
+<h1 align="center">Hi 👋, I'm Shivani Makvana</h1>
 
 <h5 align="center">A Student pursuing Bachelor of Engineering Degree eager to develop knowledge in I.T. role. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings.</h5>
 
