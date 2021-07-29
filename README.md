@@ -27,8 +27,6 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@shivani2364)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/shivani2023)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/ShivaniMakvana)
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/TsBPwP2zDx)
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/invite/tvVXg366my)
 
 ---
