@@ -7,7 +7,7 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivanimakvana&" alt="shivanimakvana" /></p>-->
 
-- My [Portfolio](https://shivanimakvana.github.io/ShivaniMakvana)
+- My [Portfolio](https://shivanimakvana.github.io/Portfolio)
 - My Website [Programming Books](https://shivanimakvana.github.io/Programmingbooks)
 
 ### Languages and Tools:
